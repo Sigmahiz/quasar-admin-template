@@ -1,0 +1,528 @@
+{
+    "data": [
+        {
+            "id": 27,
+            "img_array_url": [
+                "https://res.cloudinary.com/phoenix-tech-sa/image/upload/v1682024770/tarjeta_joven/wmcf9xrjssvkntcdf3nh.png"
+            ],
+            "price_total": 0,
+            "descuento": 0,
+            "description": "Recibe un desde un 15% a 30% de descuento cursos de ingles.",
+            "nombre": "Natural English",
+            "fecha_tope_descuento": "2033/10/12",
+            "active": 1,
+            "comercio_id": 95,
+            "created_at": "2023-04-21T00:05:46.000000Z",
+            "updated_at": "2023-04-30T02:12:37.000000Z",
+            "stock": 0,
+            "link_map": [
+                {
+                    "ubication": "Panamá",
+                    "link": "https://goo.gl/maps/RSVeq1Bguzrd6yJ87"
+                }
+            ],
+            "dir": "",
+            "prioridad": 0,
+            "comercio": {
+                "id": 95,
+                "name": "Natural",
+                "email": "amaurys.veloz@naturalenglish.com",
+                "email_verified_at": null,
+                "active": 0,
+                "role_id": 2,
+                "created_at": "2023-04-21T00:03:58.000000Z",
+                "updated_at": "2023-06-29T01:00:55.000000Z",
+                "phone": "62866342",
+                "last_name": "English",
+                "sex": 1,
+                "address": "desconocida",
+                "code": "95-6528",
+                "img_url": "https://api.tarjetajovendiamante.com/assets/img/hombre.png",
+                "fecha_nacimiento": null,
+                "beneficiario_poliza_name": null,
+                "beneficiario_poliza_cedula": null,
+                "vendedor": null,
+                "provincia": null,
+                "dni": "",
+                "dni_text": "",
+                "parentesco": "",
+                "seguro_active": 0,
+                "consecutivo": 99999999,
+                "json_consecutivos": null
+            }
+        },
+        {
+            "id": 28,
+            "img_array_url": [
+                "https://res.cloudinary.com/phoenix-tech-sa/image/upload/v1682025361/tarjeta_joven/x7ynpeqynlvcak3oirla.png"
+            ],
+            "price_total": 0,
+            "descuento": 0,
+            "description": "- Consulta 7.50\n- 20% de descuento en laboratorios\n- 20% de descuento en servicios de enfermería\n- Electrocardiograma 20.00",
+            "nombre": "Centro médico Anel II",
+            "fecha_tope_descuento": "2032/06/16",
+            "active": 1,
+            "comercio_id": 96,
+            "created_at": "2023-04-21T00:16:02.000000Z",
+            "updated_at": "2023-04-30T02:11:48.000000Z",
+            "stock": 0,
+            "link_map": [
+                {
+                    "ubication": "Panamá",
+                    "link": "https://goo.gl/maps/gbZZr8gXkSoHKjXP6"
+                }
+            ],
+            "dir": "",
+            "prioridad": 0,
+            "comercio": {
+                "id": 96,
+                "name": "Centro medico Anel",
+                "email": "centromedicoanel@gmail.com",
+                "email_verified_at": null,
+                "active": 0,
+                "role_id": 2,
+                "created_at": "2023-04-21T00:10:23.000000Z",
+                "updated_at": "2023-06-29T01:00:55.000000Z",
+                "phone": "6402-4026",
+                "last_name": "Centro medico",
+                "sex": 1,
+                "address": "Las cumbres",
+                "code": "96-1722",
+                "img_url": "https://api.tarjetajovendiamante.com/assets/img/hombre.png",
+                "fecha_nacimiento": null,
+                "beneficiario_poliza_name": null,
+                "beneficiario_poliza_cedula": null,
+                "vendedor": null,
+                "provincia": null,
+                "dni": "",
+                "dni_text": "",
+                "parentesco": "",
+                "seguro_active": 0,
+                "consecutivo": 99999999,
+                "json_consecutivos": null
+            }
+        },
+        {
+            "id": 29,
+            "img_array_url": [
+                "https://res.cloudinary.com/phoenix-tech-sa/image/upload/v1682026539/tarjeta_joven/jvlsvhmdfcoxxxk8we3l.png"
+            ],
+            "price_total": 0,
+            "descuento": 0,
+            "description": "25% de descuento y evaluación de cortesía gratis",
+            "nombre": "Óptica Ibarra",
+            "fecha_tope_descuento": "2029/09/21",
+            "active": 1,
+            "comercio_id": 97,
+            "created_at": "2023-04-21T00:30:14.000000Z",
+            "updated_at": "2023-04-30T02:10:10.000000Z",
+            "stock": 0,
+            "link_map": [
+                {
+                    "ubication": "Panamá",
+                    "link": "https://goo.gl/maps/og3onf3g5McUSE9P9"
+                }
+            ],
+            "dir": "",
+            "prioridad": 0,
+            "comercio": {
+                "id": 97,
+                "name": "Óptica",
+                "email": "jennesy-ibarra@hotmail.com",
+                "email_verified_at": null,
+                "active": 0,
+                "role_id": 2,
+                "created_at": "2023-04-21T00:24:02.000000Z",
+                "updated_at": "2023-06-29T01:00:55.000000Z",
+                "phone": "6562-4060",
+                "last_name": "Ibarra",
+                "sex": 1,
+                "address": "12 de octubre - Santa librada - Crystal plaza",
+                "code": "97-4218",
+                "img_url": "https://api.tarjetajovendiamante.com/assets/img/hombre.png",
+                "fecha_nacimiento": null,
+                "beneficiario_poliza_name": null,
+                "beneficiario_poliza_cedula": null,
+                "vendedor": null,
+                "provincia": null,
+                "dni": "",
+                "dni_text": "",
+                "parentesco": "",
+                "seguro_active": 0,
+                "consecutivo": 99999999,
+                "json_consecutivos": null
+            }
+        },
+        {
+            "id": 30,
+            "img_array_url": [
+                "https://res.cloudinary.com/phoenix-tech-sa/image/upload/v1682026963/tarjeta_joven/d5pgddpjdsje6lthzzwh.png"
+            ],
+            "price_total": 0,
+            "descuento": 0,
+            "description": "20% de descuento en anillos de graduación - joyas personalizadas - reparaciones",
+            "nombre": "Koko Jewerly desing",
+            "fecha_tope_descuento": "2028/09/21",
+            "active": 1,
+            "comercio_id": 98,
+            "created_at": "2023-04-21T00:42:45.000000Z",
+            "updated_at": "2023-04-30T02:09:07.000000Z",
+            "stock": 0,
+            "link_map": [
+                {
+                    "ubication": "Panamá",
+                    "link": "https://goo.gl/maps/yfGB1PDj82iHDNN76"
+                }
+            ],
+            "dir": "",
+            "prioridad": 0,
+            "comercio": {
+                "id": 98,
+                "name": "KOKO jewerly desing",
+                "email": "kokojewelrydesign@gmail.com",
+                "email_verified_at": null,
+                "active": 0,
+                "role_id": 2,
+                "created_at": "2023-04-21T00:41:18.000000Z",
+                "updated_at": "2023-06-29T01:00:55.000000Z",
+                "phone": "6595-0701",
+                "last_name": "koko",
+                "sex": 1,
+                "address": "albrook mall",
+                "code": "98-9877",
+                "img_url": "https://api.tarjetajovendiamante.com/assets/img/hombre.png",
+                "fecha_nacimiento": null,
+                "beneficiario_poliza_name": null,
+                "beneficiario_poliza_cedula": null,
+                "vendedor": null,
+                "provincia": null,
+                "dni": "",
+                "dni_text": "",
+                "parentesco": "",
+                "seguro_active": 0,
+                "consecutivo": 99999999,
+                "json_consecutivos": null
+            }
+        },
+        {
+            "id": 37,
+            "img_array_url": [
+                "https://res.cloudinary.com/phoenix-tech-sa/image/upload/v1682808750/tarjeta_joven/tiadjwhph9gksa6msz9u.jpg"
+            ],
+            "price_total": 0,
+            "descuento": 0,
+            "description": "10% servicio completo (corte, barba y masacrilma)\n10% compra de productos",
+            "nombre": "R- Torres Barber Shop",
+            "fecha_tope_descuento": "2031/09/30",
+            "active": 1,
+            "comercio_id": 184,
+            "created_at": "2023-04-30T01:52:31.000000Z",
+            "updated_at": "2023-04-30T01:52:31.000000Z",
+            "stock": 0,
+            "link_map": [
+                {
+                    "ubication": "Panamá",
+                    "link": "https://goo.gl/maps/iE38Eva2f1hTGyJb8"
+                }
+            ],
+            "dir": "",
+            "prioridad": 0,
+            "comercio": {
+                "id": 184,
+                "name": "R- Torres Barber Shop",
+                "email": "Irazema_reina@hotmail.com",
+                "email_verified_at": null,
+                "active": 0,
+                "role_id": 2,
+                "created_at": "2023-04-30T01:12:59.000000Z",
+                "updated_at": "2023-06-29T01:00:55.000000Z",
+                "phone": "6698-3060",
+                "last_name": "-",
+                "sex": 1,
+                "address": "Panama",
+                "code": "184-1858",
+                "img_url": "https://api.tarjetajovendiamante.com/assets/img/hombre.png",
+                "fecha_nacimiento": null,
+                "beneficiario_poliza_name": null,
+                "beneficiario_poliza_cedula": null,
+                "vendedor": null,
+                "provincia": null,
+                "dni": "",
+                "dni_text": "",
+                "parentesco": "",
+                "seguro_active": 0,
+                "consecutivo": 99999999,
+                "json_consecutivos": null
+            }
+        },
+        {
+            "id": 107,
+            "img_array_url": [
+                "https://api.tarjetajovendiamante.com/storage/images/ofertas/2023_10_13//iRouhsuSyBGBLxkdnXnNHaP02bDKMX13J34T3DYE.jpg"
+            ],
+            "price_total": 0,
+            "descuento": 0,
+            "description": "-<b>Adulto:</b> 8.98 (Incluye ITBMS)-<br>-<b>Niño:</b> 7.49 (Incluye ITBMS)-",
+            "nombre": "Hotel Camping Resort",
+            "fecha_tope_descuento": "2024/01/01",
+            "active": 1,
+            "comercio_id": 445,
+            "created_at": "2023-10-13T15:53:05.000000Z",
+            "updated_at": "2023-10-13T15:53:05.000000Z",
+            "stock": 0,
+            "link_map": [
+                {
+                    "ubication": "Panamá",
+                    "link": "https://maps.app.goo.gl/WKSMUj23yYuU6eyH9"
+                }
+            ],
+            "dir": "",
+            "prioridad": 0,
+            "comercio": {
+                "id": 445,
+                "name": "Camping Resort",
+                "email": "campingrhotel@gmail.com",
+                "email_verified_at": null,
+                "active": 0,
+                "role_id": 2,
+                "created_at": "2023-10-05T17:09:33.000000Z",
+                "updated_at": "2023-10-05T17:09:33.000000Z",
+                "phone": "62889923",
+                "last_name": "-",
+                "sex": 1,
+                "address": "Chilibre",
+                "code": "445-3385",
+                "img_url": "https://api.tarjetajovendiamante.com/storage/images/users/2023_10_05//0fhGSNCGtbNd7GwkRetMdoStEBUxLKO1vXGdIEQi.jpg",
+                "fecha_nacimiento": null,
+                "beneficiario_poliza_name": null,
+                "beneficiario_poliza_cedula": null,
+                "vendedor": null,
+                "provincia": null,
+                "dni": "/tmp/phpZ3eToD",
+                "dni_text": "",
+                "parentesco": "",
+                "seguro_active": 0,
+                "consecutivo": 0,
+                "json_consecutivos": null
+            }
+        },
+        {
+            "id": 76,
+            "img_array_url": [
+                "https://res.cloudinary.com/phoenix-tech-sa/image/upload/v1689970281/tarjeta_joven/unzjodickctlvff0l9fn.jpg"
+            ],
+            "price_total": 0,
+            "descuento": 0,
+            "description": "-15% de descuento-",
+            "nombre": "Farmacia Farmilyk",
+            "fecha_tope_descuento": "2024/07/22",
+            "active": 1,
+            "comercio_id": 390,
+            "created_at": "2023-07-21T20:11:22.000000Z",
+            "updated_at": "2023-07-21T20:11:22.000000Z",
+            "stock": 0,
+            "link_map": [
+                {
+                    "ubication": "Panamá",
+                    "link": "https://goo.gl/maps/krrmCrNRENji6Gbz6"
+                }
+            ],
+            "dir": "",
+            "prioridad": 0,
+            "comercio": {
+                "id": 390,
+                "name": "Farmacia Farmilyk",
+                "email": "itzaliacosta0424@gmail.com",
+                "email_verified_at": null,
+                "active": 0,
+                "role_id": 2,
+                "created_at": "2023-07-21T19:55:51.000000Z",
+                "updated_at": "2023-07-25T16:28:49.000000Z",
+                "phone": "66570025",
+                "last_name": "-",
+                "sex": 1,
+                "address": "La Gran Estación nivel 100 local 83",
+                "code": "390-8057",
+                "img_url": "https://api.tarjetajovendiamante.com/storage/images/users/2023_07_21//0wFBjPgEtcVprp3dxaxrhMtuNzjLymqzr2b3T4bx.jpg",
+                "fecha_nacimiento": null,
+                "beneficiario_poliza_name": null,
+                "beneficiario_poliza_cedula": null,
+                "vendedor": null,
+                "provincia": null,
+                "dni": "",
+                "dni_text": "",
+                "parentesco": "",
+                "seguro_active": 0,
+                "consecutivo": 99999999,
+                "json_consecutivos": null
+            }
+        },
+        {
+            "id": 75,
+            "img_array_url": [
+                "https://res.cloudinary.com/phoenix-tech-sa/image/upload/v1689970103/tarjeta_joven/dqzbj3wv33nckqegdazx.jpg"
+            ],
+            "price_total": 0,
+            "descuento": 0,
+            "description": "-15% de descuento-",
+            "nombre": "Salud Femenina - Doctora Maria Ramirez",
+            "fecha_tope_descuento": "2024/07/24",
+            "active": 1,
+            "comercio_id": 389,
+            "created_at": "2023-07-21T20:08:24.000000Z",
+            "updated_at": "2023-07-21T20:09:57.000000Z",
+            "stock": 0,
+            "link_map": [
+                {
+                    "ubication": "Panamá",
+                    "link": "https://goo.gl/maps/f89sSR6Rz7qPowbL7"
+                }
+            ],
+            "dir": "",
+            "prioridad": 1,
+            "comercio": {
+                "id": 389,
+                "name": "Salud Femenina",
+                "email": "dramariaramirez@gmail.com",
+                "email_verified_at": null,
+                "active": 0,
+                "role_id": 2,
+                "created_at": "2023-07-21T19:47:29.000000Z",
+                "updated_at": "2023-07-25T16:28:49.000000Z",
+                "phone": "61513538",
+                "last_name": "Doctora Maria",
+                "sex": 2,
+                "address": "Sunset mall, la gran estación",
+                "code": "389-8642",
+                "img_url": "https://api.tarjetajovendiamante.com/storage/images/users/2023_07_21//vhfh3AzVumWeYxqKFxnMeS2FKBw22Sn6Kk85aAn3.jpg",
+                "fecha_nacimiento": null,
+                "beneficiario_poliza_name": null,
+                "beneficiario_poliza_cedula": null,
+                "vendedor": null,
+                "provincia": null,
+                "dni": "",
+                "dni_text": "",
+                "parentesco": "",
+                "seguro_active": 0,
+                "consecutivo": 99999999,
+                "json_consecutivos": null
+            }
+        },
+        {
+            "id": 108,
+            "img_array_url": [
+                "https://api.tarjetajovendiamante.com/storage/images/ofertas/2023_10_16//Mxn4VSXHaa9zqngSfnROrh6mD3GvHA9iOxxDOrxp.png"
+            ],
+            "price_total": 0,
+            "descuento": 0,
+            "description": "<div style=\"text-align: center;\">-<b>30% de descuento</b> en masaje terapéutico de dos caras, duración de 1 hora en cabina.-</div>",
+            "nombre": "Estetica Maryot",
+            "fecha_tope_descuento": "2024/10/16",
+            "active": 1,
+            "comercio_id": 450,
+            "created_at": "2023-10-16T16:54:27.000000Z",
+            "updated_at": "2023-10-16T16:54:27.000000Z",
+            "stock": 0,
+            "link_map": [
+                {
+                    "ubication": "Panamá",
+                    "link": "https://maps.app.goo.gl/qyAE6UWeZ5aoPqqw5"
+                },
+                {
+                    "ubication": "Colón",
+                    "link": ""
+                }
+            ],
+            "dir": "",
+            "prioridad": 2,
+            "comercio": {
+                "id": 450,
+                "name": "Martha",
+                "email": "esteticamaryot02@gmail.com",
+                "email_verified_at": null,
+                "active": 0,
+                "role_id": 2,
+                "created_at": "2023-10-11T18:31:36.000000Z",
+                "updated_at": "2023-11-01T01:52:34.000000Z",
+                "phone": "6265 - 5559",
+                "last_name": "Torres",
+                "sex": 0,
+                "address": "Via españa The Cube oficina - 13",
+                "code": "450-3198",
+                "img_url": "https://api.tarjetajovendiamante.com/storage/images/users/2023_10_15//NqQiMthotkDtj8GArQTgOo8FJvly577DkZ4spo11.jpg",
+                "fecha_nacimiento": "1972-05-02",
+                "beneficiario_poliza_name": "Ricardo gabriel thompson garibaldo",
+                "beneficiario_poliza_cedula": "8-230-113",
+                "vendedor": "Promotor 1",
+                "provincia": "[\"Panamá\"]",
+                "dni": "https://api.tarjetajovendiamante.com/storage/images/users/2023_10_11//gvgRqAxXyZZ02I3f8bMIJjUcFOq2v1CQ4KNhq0pV.jpg",
+                "dni_text": "E-8-95119",
+                "parentesco": "otro",
+                "seguro_active": 0,
+                "consecutivo": 0,
+                "json_consecutivos": null
+            }
+        },
+        {
+            "id": 26,
+            "img_array_url": [
+                "https://res.cloudinary.com/phoenix-tech-sa/image/upload/v1682024307/tarjeta_joven/hddrkl1mor8hh5zmlooq.png"
+            ],
+            "price_total": 0,
+            "descuento": 0,
+            "description": "- Consulta de cortesía\n- 20% de descuento en confección de receta\n- 20% al 30% en aros de marca\n- Consulta de oftalmología 50.00\n- Confección en el segundo par de lentes 25% de descuento",
+            "nombre": "Optimax",
+            "fecha_tope_descuento": "2027/09/06",
+            "active": 1,
+            "comercio_id": 94,
+            "created_at": "2023-04-20T23:58:28.000000Z",
+            "updated_at": "2023-10-06T21:06:30.000000Z",
+            "stock": 0,
+            "link_map": [
+                {
+                    "ubication": "Panamá",
+                    "link": "https://goo.gl/maps/RXnw3wBahf5d1cmB8"
+                },
+                {
+                    "ubication": "Panamá",
+                    "link": null
+                }
+            ],
+            "dir": "",
+            "prioridad": 2,
+            "comercio": {
+                "id": 94,
+                "name": "Optimax",
+                "email": "optimaxpty@gmail.com",
+                "email_verified_at": null,
+                "active": 0,
+                "role_id": 2,
+                "created_at": "2023-04-20T23:18:16.000000Z",
+                "updated_at": "2023-06-29T01:00:55.000000Z",
+                "phone": "6977-9500",
+                "last_name": ".",
+                "sex": 1,
+                "address": "Marbella - La Doña - Chorrera - Albrook Mall",
+                "code": "94-3210",
+                "img_url": "https://api.tarjetajovendiamante.com/assets/img/hombre.png",
+                "fecha_nacimiento": null,
+                "beneficiario_poliza_name": null,
+                "beneficiario_poliza_cedula": null,
+                "vendedor": null,
+                "provincia": null,
+                "dni": "",
+                "dni_text": "",
+                "parentesco": "",
+                "seguro_active": 0,
+                "consecutivo": 99999999,
+                "json_consecutivos": null
+            }
+        }
+    ],
+    "pagination": {
+        "totalItems": 20,
+        "currentPage": 1,
+        "itemsPerPage": 10,
+        "lastPage": 2
+    }
+}
