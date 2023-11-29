@@ -13,7 +13,7 @@
     "build": "quasar build",
     "start": "node server.js",
     "pwa:build": "quasar build -m pwa",
-    "pwa:serve": "http-server dist/pwa/ -p 3000",
+    "pwa:serve": "http-server dist/pwa/ -p 3000 --silent --gzip --cache",
     "generate": "quasar generate",
     "ssr:dev": "quasar dev -m ssr",
     "ssr:build": "quasar build -m ssr",
