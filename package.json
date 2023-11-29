@@ -6,7 +6,16 @@
   "author": "pratikpatelpp802@gmail.com",
   "private": true,
   "scripts": {
-    "test": "echo \"No test specified\" && exit 0"
+    "lint": "eslint --ext .js,.ts,.vue ./",
+    "format": "prettier --write \"**/*.{js,ts,vue,scss,html,md,json}\" --ignore-path .gitignore",
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "start": "node server.js",
+    "generate": "quasar generate",
+    "ssr:dev": "quasar dev -m ssr",
+    "ssr:build": "quasar build -m ssr",
+    "ssr:start": "node ./dist/ssr/index.js"
   },
   "dependencies": {
     "@quasar/extras": "^1.16.7",
